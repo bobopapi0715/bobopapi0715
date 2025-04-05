@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Yingyi (bobopapi0715)
 
-<!--
-**bobopapi0715/bobopapi0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a data and analytics enthusiast with a background in **probability & statistics** (UCSD) and graduate coursework in **data mining, predictive analytics, and text analytics** (USC). I’m currently diving deeper into **machine learning and AI**, preparing to apply for Georgia Tech and UT Austin’s online master’s programs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 I’m interested in:
+- 🧠 Machine Learning & Applied AI  
+- 📈 Data Science for Marketing & Product Strategy  
+- 🧪 A/B Testing & Experiment Design  
+- 💬 NLP & Behavioral Modeling  
+- 📊 Building insightful dashboards with Tableau & Power BI
+
+---
+
+## 💞️ I’m looking to collaborate on:
+- Open-source data science projects  
+- Kaggle competitions  
+- Dashboard and storytelling challenges  
+- End-to-end ML case studies
+
+---
+
+## 📫 How to reach me:
+- 📧 Email: [papilee0715@gmail.com](mailto:papilee0715@gmail.com)  
+
+---
+
+## 😄 Pronouns: she/her  
+
